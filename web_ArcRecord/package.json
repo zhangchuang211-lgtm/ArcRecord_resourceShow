@@ -15,7 +15,7 @@
     "@element-plus/icons-vue": "^2.3.2",
     "@esotericsoftware/spine-player": "^4.1.55",
     "@pixi/loaders": "^6.5.10",
-    "axios": "^1.13.2",
+    "axios": "^1.18.0",
     "element-plus": "^2.13.0",
     "pixi.js": "^8.15.0",
     "vue": "^3.5.25"
